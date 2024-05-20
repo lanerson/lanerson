@@ -4,7 +4,7 @@
 
 ## 🚀 Minhas Skills
 
-<img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"/>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML5"/></code>
