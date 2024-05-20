@@ -6,11 +6,13 @@
 
 <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"/>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/expo/expo.png" alt="Expo"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/shell/shell.png" alt="Shell"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" alt="Firebase"/></code>
 
